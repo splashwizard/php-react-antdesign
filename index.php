@@ -1,6 +1,6 @@
 <?php 
 $user = (object) [
-    'name' => 'Jane Doe',
+    'name' => 'Matt',
     'email' => 'janedoe@gmail.com',
     'logged' => true
 ];
